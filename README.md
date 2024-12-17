@@ -1,6 +1,6 @@
 # Hi there, I'm Niftalem 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and contribute to open-source projects. Here's a little bit about me:
+Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and contribute to projects. Here's a little bit about me:
 
 ## 🚀 About Me
 
